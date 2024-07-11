@@ -1,0 +1,4 @@
+xarray
+zarr
+webdav4[fsspec]
+
